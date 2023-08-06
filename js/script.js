@@ -55,7 +55,7 @@ darkModeIcon.onclick = () => {
 };
 
 var typed = new Typed('.typing-2', {
-    strings: ['Developer', 'Freelancer', 'Student', 'Content Writer', 'Dark Jokes Expert'],
+    strings: ['Developer', 'Programmer', 'Student', 'Content Writer'],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
